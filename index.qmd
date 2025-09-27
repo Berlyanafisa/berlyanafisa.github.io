@@ -1,0 +1,32 @@
+---
+title: "Nafisa Berlyana Indah Pratiwi"
+subtitle: "Lifelong Learner"
+image: nafpict.jpeg
+about:
+  template: jolla
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nafisabip
+    - icon: github
+      text: Github
+      href: https://github.com/berlyanafisa/
+    - icon: envelope
+      text: Contact me
+      href: mailto:nafisaberlinaindahpratiwi@gmail.com
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/nafisaberlyana/"
+    - icon: journals
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=5iB5_PkAAAAJ&hl=id
+---
+
+::: about-paragraph
+<p>Hi, call me Naf! With a background in Mathematics and a Master's in Statistics and Data Science, I’m passionate about turning data into insights. I’m skilled in R, just starting out with Python, and love creating visual stories with Looker. I’m also proficient in Microsoft tools and familiar with Visio. My main focus has been on unsupervised learning, and right now, I’m diving deeper into the world of machine learning. Feel free to explore and get to know more about what I do!
+I’m open to collaborations, projects, or new opportunities.</p>
+:::
+
+
