@@ -9,7 +9,7 @@ project:
 website:
   title: ""
   favicon: "logo_naf2.png"
-  navbar:
+  navbar: 
     logo: "logo_naf.png"
     background: "#A7D5E8"
     align: center
@@ -18,7 +18,7 @@ website:
       - text: "About"
         href: about.qmd
       - text: CV
-        href: cv2.pdf
+        href: https://berlyanafisa.github.io/cv/cv2.pdf
         
   page-footer:
     left: "Made with <i class='bi bi-balloon-heart-fill'></i> and [Posit Quarto](https://quarto.org/)"
