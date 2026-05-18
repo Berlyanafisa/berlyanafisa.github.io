@@ -5,3 +5,5 @@ _freeze/
 .Rhistory
 .RData
 .DS_Store
+
+/.quarto/
