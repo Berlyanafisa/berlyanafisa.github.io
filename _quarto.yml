@@ -18,7 +18,7 @@ website:
       - text: "About"
         href: about.qmd
       - text: CV
-        href: https://berlyanafisa.github.io/cv/cv2.pdf
+        href: cv/cv.pdf
         
   page-footer:
     left: "Made with <i class='bi bi-balloon-heart-fill'></i> and [Posit Quarto](https://quarto.org/)"
