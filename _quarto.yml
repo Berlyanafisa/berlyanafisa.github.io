@@ -18,7 +18,7 @@ website:
       - text: "About"
         href: about.qmd
       - text: CV
-        href: cv/cv.pdf
+        href: cv.pdf
         
   page-footer:
     left: "Made with <i class='bi bi-balloon-heart-fill'></i> and [Posit Quarto](https://quarto.org/)"
