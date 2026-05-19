@@ -18,12 +18,14 @@ website:
     left:
       - text: "About"
         href: about.qmd
-      - text: CV
-        href: cv.pdf
+
       - text: "Notes"
         menu:
           - text: "Probability"
             href: probability.qmd
+
+      - text: "CV"
+        href: cv.pdf
         
   page-footer:
     left: "Made with <i class='bi bi-balloon-heart-fill'></i> and [Posit Quarto](https://quarto.org/)"
@@ -39,4 +41,3 @@ format:
 
 freeze: auto
 editor: visual
-
