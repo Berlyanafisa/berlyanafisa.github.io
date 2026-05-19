@@ -19,6 +19,10 @@ website:
         href: about.qmd
       - text: CV
         href: cv.pdf
+      - text: "Notes"
+        menu:
+          - text: "Probability"
+            href: probability.qmd
         
   page-footer:
     left: "Made with <i class='bi bi-balloon-heart-fill'></i> and [Posit Quarto](https://quarto.org/)"
