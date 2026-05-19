@@ -5,6 +5,7 @@ project:
     - about.qmd
     - cv.qmd
     - blog.qmd
+    - probability.qmd
 
 website:
   title: ""
